@@ -1,4 +1,6 @@
 # SIEM
+![image](https://github.com/Paul5070/SIEM/assets/108010905/c5cd631d-859a-455f-87aa-2b9185354a84)
+![image](https://github.com/Paul5070/SIEM/assets/108010905/acf9ac43-6079-4252-a88b-9a1fc7381ea4)
 ![image](https://github.com/Paul5070/SIEM/assets/108010905/2bd619ce-e49c-4257-bb79-79d4e5eddb45)
 
 
